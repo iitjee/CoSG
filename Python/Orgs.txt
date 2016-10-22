@@ -1,0 +1,16 @@
+https://wiki.python.org/moin/SummerOfCode/2016#Getting_Started
+
+
+1. Orange BioLabs: https://github.com/biolab/orange3/wiki/GSoC-Contributions
+
+GuideLines to Dive!
+https://groups.google.com/forum/#!topic/orange-gsoc/FDotJJ64aHo
+
+Advice to start ahead?
+I can suggest you becoming really fluent in Python 3, PyQt, possibly Cython —all depending upon the chosen task—, and the rest of the software stack Orange uses. You might find something on the issue tracker to fix. Or for starters, you might want to go over remaining GSoC project ideas, or review what the students have accomplished to date.
+ 
+ 
+Can I add a NN addon?
+Familiarize yourself with Orange - the GUI as well as its codebase. Think about how you would introduce the neural networks to Orange - what would the widgets look like, what would be the underlying architecture of your code, which libraries for training neural networks would you use and why, etc.
+
+
